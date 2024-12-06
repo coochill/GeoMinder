@@ -1,5 +1,5 @@
 <p align="center"> 
-    <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/detechslogo.jpg" width = "200">
+    <img src="[https://github.com/coochill/GeoMinder/blob/main/assets/geominder.png]" width = "200">
 </p>
 <h1 align="center"> 
 Geominder: Location-based Task Reminder</h1>
