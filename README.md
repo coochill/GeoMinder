@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center"> 
-Geominder: Location-based Task Reminder</h1>
+GeoMinder: Location-based Task Reminder</h1>
 <h3 align="center"> CS312 - Mobile Computing</h3>
 <h5 align="center"> Final Project - Batangas State University - Alangilan, 1st Semester 2024 </h3>
 
