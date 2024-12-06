@@ -1,6 +1,7 @@
 <p align="center"> 
-    <img src="[https://github.com/coochill/GeoMinder/blob/main/assets/geominder.png]" width = "200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/geominder.png" width="200">
 </p>
+
 <h1 align="center"> 
 Geominder: Location-based Task Reminder</h1>
 <h3 align="center"> CS312 - Mobile Computing</h3>
