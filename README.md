@@ -35,6 +35,8 @@ GeoMinder: Location-based Task Reminder</h1>
         <img src="https://github.com/coochill/GeoMinder/blob/main/assets/About2.jpg" alt="Image 3" width="200">
 	<h3>Reminder dialog</h3>
 	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" alt="Image 2" width="200"> 
+	<h3>Reminder dialog</h3>
+	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" alt="Image 2" width="200"> 
     </div>
 </body>
 
