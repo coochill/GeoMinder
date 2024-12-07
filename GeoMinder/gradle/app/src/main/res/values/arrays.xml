@@ -1,0 +1,7 @@
+<resources>
+    <string-array name="history_filter_options">
+        <item>All</item>
+        <item>Completed</item>
+        <item>Deleted</item>
+    </string-array>
+</resources>

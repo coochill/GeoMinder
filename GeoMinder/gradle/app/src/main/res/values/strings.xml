@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">GeoMinder</string>
+    <string name="default_web_client_id">71261401194-b6k5m88o0m4k148a2f7dqf4rr6mvg3di.apps.googleusercontent.com</string>
+    <string name="title_history">History</string>
+    <string name="title_user">User Profile</string>
+    <string name="title_home">Home</string>
+    <string name="title_input">Add</string>
+    <string name="back_arrow" />
+    <string name="save_button" />
+    <string name="google_maps_key">AIzaSyDofiHdH-X11xLyvKNSNiuOk9XswpDx1DU</string>
+    <string name="about">GeoMinder is your personal assistant for managing tasks that matter most. Whether it’s picking up groceries near the store, attending a meeting on time, or completing errands while on the go, GeoMinder ensures you’re reminded at the perfect moment—right where you need to be.
+With GeoMinder, you’ll never miss a beat.</string>
+    <string name="edit_button" />
+    <string name="edit">Edit</string>
+
+
+</resources>
+
+
+

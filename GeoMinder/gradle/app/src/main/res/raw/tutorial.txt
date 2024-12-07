@@ -1,0 +1,30 @@
+##How to Use GeoMinder##
+
+
+
+
+**Getting Started**
+
+
+
+
+*Create Your First Task*
+Tap "+" button on the dashboard.
+Set a title and choose a category of the location such as ATM, coffee, shopping mall and etc.
+Select a location by clicking a marker on the map or search for easy navigation.
+
+
+
+
+*Customize Your Alerts*
+Choose to get notified based on location proximity or time triggers.
+
+
+
+
+*Stay Organized*
+View all tasks on your categorized list.
+Easily edit, complete, or delete tasks as needed.
+
+
+

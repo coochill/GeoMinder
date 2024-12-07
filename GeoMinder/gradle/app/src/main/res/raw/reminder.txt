@@ -1,0 +1,24 @@
+##Important Reminder##
+
+
+
+
+To make sure **GeoMinder** works seamlessly:
+
+
+
+
+📍 *Keep Your Location Services Enabled*
+GeoMinder needs your location to notify you when you're near your task location.
+For best results, enable High Accuracy Mode on your device.
+Keep the app running in the background for timely notifications.
+
+
+
+
+🔑 *Grant Necessary Permissions*
+Allow GeoMinder to access your location “All the Time” for optimal performance.
+Enable notification permissions to receive reminders without interruptions.
+
+
+

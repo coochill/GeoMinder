@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="mapContainer" type="id" />
+    <item name="radioGroup" type="id" />
+    <item name="radioOption2" type="id" />
+    <item name="selectedDateText" type="id" />
+    <item name="textInputLayout" type="id" />
+    <item name="categorySpinner" type="id" />
+    <item name="radioOption1" type="id" />
+    <item name="textInputEditText" type="id" />
+    <item name="radioGroup2Title" type="id" />
+    <item name="radioGroup2" type="id" />
+    <item name="radioOption3" type="id" />
+    <item name="radioOption4" type="id" />
+    <item name="taskListView" type="id" />
+    <item name="selectedPlaceText" type="id" />
+    <item name="placeAddressText" type="id" />
+    <item name="editButton" type="id" />
+    <item name="deleteButton" type="id" />
+    <item name="navigation_home" type="id" />
+    <item name="navigation_dashboard" type="id" />
+    <item name="navigation_notifications" type="id" />
+    <item name="bottom_navigation" type="id" />
+    <item name="filter_spinner" type="id" />
+</resources>
+
+
+

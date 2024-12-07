@@ -1,0 +1,13 @@
+##Features to Explore##
+🗺️ *Location-Based Reminders*
+Get notified when you're near the set location for your tasks. Never miss a chore, errand, or meeting again.
+⏰ *Time Alerts*
+Set specific times for your tasks, and **GeoMinder** will remind you right on schedule.
+📍 *Interactive Map View*
+View your tasks pinned on an intuitive map interface, allowing you to see what's nearby and prioritize efficiently.
+✅ *Smart Task Manager*
+Easily organize, edit, or complete tasks. Get progress updates and stay productive.
+##Ready to tackle your day with precision?##
+
+
+

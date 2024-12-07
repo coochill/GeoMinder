@@ -1,0 +1,50 @@
+<resources>
+    <style name="BottomNavigationStyle" parent="Widget.Design.BottomNavigationView">
+        <item name="itemIconTint">@color/darkgreen</item>
+        <item name="itemTextColor">@color/white</item>
+    </style>
+
+    <!-- Define custom style for DatePickerDialog -->
+    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Light.Dialog">
+        <!-- Change the background color of the DatePicker -->
+        <item name="android:background">@color/white</item> <!-- White background for the dialog -->
+
+
+
+
+
+
+
+
+        <!-- Change text color of the DatePicker -->
+        <item name="android:textColor">#000000</item> <!-- Black text color -->
+
+
+
+
+        <!-- Customize the DatePicker text color (Day, Month, Year, etc.) -->
+        <item name="android:textColorPrimary">#000000</item> <!-- Black for primary text (Day, Month, Year) -->
+        <item name="android:textColorSecondary">#808080</item> <!-- Gray for secondary text (e.g., dividers) -->
+
+
+
+
+        <!-- Customize DatePicker buttons -->
+        <item name="android:buttonBarButtonStyle">@style/CustomButtonStyle</item>
+    </style>
+
+
+
+
+    <!-- Custom button style for buttons inside the DatePicker (e.g., OK, Cancel) -->
+    <style name="CustomButtonStyle">
+        <item name="android:textColor">#066e0a</item> <!-- White text for buttons -->
+    </style>
+</resources>
+
+
+
+
+
+
+
