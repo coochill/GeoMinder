@@ -52,8 +52,8 @@ GeoMinder: Location-based Task Reminder</h1>
   	<h3>Input task</h3>
 	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Input Page.jpg" alt="Image 2" width="200">    
   	<h3>On-Click Notif (Decision page)</h3>
-	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/login.jpg" alt="Image 2" width="200"> 
- 	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/signup.jpg" alt="Image 2" width="200"> 
+	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Notif.jpg" alt="Image 2" width="200"> 
+ 	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Decision.jpg" alt="Image 2" width="200"> 
 	    
     </div>
 </body>
