@@ -1,0 +1,66 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/gradient_background"
+    tools:context=".ui.LandingActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="16dp">
+
+        <!-- ImageView for your image -->
+        <ImageView
+            android:id="@+id/imageView"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="21dp"
+            android:layout_marginEnd="16dp"
+            android:foregroundGravity="center"
+            android:src="@drawable/geominder" />
+
+        <TextView
+            android:id="@+id/textView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@id/imageView"
+            android:layout_marginStart="-329dp"
+            android:layout_marginTop="210dp"
+            android:layout_toEndOf="@id/imageView"
+            android:gravity="center"
+            android:lineSpacingExtra="8dp"
+            android:padding="8dp"
+            android:text="Your Tasks, Right Place at the Right Time\nKeep track of your tasks seamlessly."
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/roboto_slab"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/featuresTextView"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/imageView"
+            android:layout_marginTop="51dp"
+            android:text="Loading features..."
+            android:textAlignment="center"
+            android:textColor="@android:color/white"
+            android:fontFamily="@font/lato"
+            android:textSize="16sp"
+            android:justificationMode="inter_word" /> <!-- Justified text -->
+
+        <Button
+            android:id="@+id/getStartedButton"
+            android:layout_width="33mm"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/featuresTextView"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="50dp"
+            android:gravity="center"
+            android:backgroundTint="@color/yellowgreen"
+            android:layout_centerHorizontal="true"
+            android:text="Get Started"
+            android:textSize="20sp" />
+    </RelativeLayout>
+</ScrollView>

@@ -1,0 +1,85 @@
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="200dp"
+    android:padding="20dp"
+    android:background="@drawable/rounded_border"
+    android:elevation="0dp"
+    tools:context=".ui.MainActivity">
+
+    <!-- TextView to display "notify" aligned to the right -->
+
+
+    <TextView
+        android:id="@+id/notifyText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="64dp"
+        android:text="Notify"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        app:layout_constraintBottom_toTopOf="@id/taskDetailsTextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintVertical_bias="0.46" />
+
+    <androidx.appcompat.widget.SwitchCompat
+        android:id="@+id/notifySwitch"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:showText="false"
+        android:textOff=""
+        android:textOn=""
+        android:thumb="@drawable/switch_thumb"
+        android:track="@drawable/switch_track"
+        app:layout_constraintStart_toEndOf="@id/notifyText"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/taskDetailsTextView" />
+
+    <!-- Task Details TextView -->
+    <TextView
+        android:id="@+id/taskDetailsTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="8dp"
+        android:textColor="@android:color/black"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/notifySwitch"
+        app:layout_constraintBottom_toTopOf="@id/editButton" />
+
+    <!-- Edit Button -->
+    <Button
+        android:id="@+id/editButton"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/yellowgreen"
+        android:contentDescription="@string/save_button"
+        android:gravity="center"
+        android:text="Edit"
+        android:textSize="16sp"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toStartOf="@id/deleteButton"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintHorizontal_chainStyle="packed"
+        android:layout_marginEnd="16dp" /> <!-- Added margin between buttons -->
+
+    <!-- Delete Button -->
+    <Button
+        android:id="@+id/deleteButton"
+        android:layout_width="0dp"
+        android:layout_height="50dp"
+        android:backgroundTint="@color/yellowgreen"
+        android:contentDescription="@string/save_button"
+        android:gravity="center"
+        android:text="Delete"
+        android:textSize="16sp"
+        app:layout_constraintStart_toEndOf="@id/editButton"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintBottom_toBottomOf="parent"
+        android:layout_marginStart="16dp" /> <!-- Added margin between buttons -->
+
+</androidx.constraintlayout.widget.ConstraintLayout>
