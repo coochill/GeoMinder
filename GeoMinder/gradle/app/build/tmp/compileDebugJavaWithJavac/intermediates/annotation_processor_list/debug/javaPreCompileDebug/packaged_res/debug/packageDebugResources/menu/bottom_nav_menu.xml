@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+
+
+    <item
+        android:id="@+id/main"
+        android:icon="@drawable/home_button"
+        android:textColor="@color/black"
+        android:title="@string/title_home" />
+
+
+
+    <item
+        android:id="@+id/navigation_history"
+        android:textColor="@color/black"
+        android:icon="@drawable/history_button"
+        android:title="@string/title_history" />
+
+
+
+
+
+
+
+
+</menu>
+
+
+
+
+
+
+

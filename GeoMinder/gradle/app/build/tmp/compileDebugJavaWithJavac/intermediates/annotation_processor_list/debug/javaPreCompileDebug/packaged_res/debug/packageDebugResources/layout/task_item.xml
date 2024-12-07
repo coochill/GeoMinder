@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:padding="16dp">
+
+
+
+
+
+
+    <TextView
+        android:id="@+id/taskTitle"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:text="Task Title"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:paddingBottom="8dp"
+        android:textColor="@color/darkgreen"
+        android:fontFamily="@font/lato"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:layout_constraintBottom_toTopOf="@id/radioGroup" />
+
+
+    <RadioGroup
+        android:id="@+id/radioGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/taskTitle"
+        app:layout_constraintBottom_toTopOf="@id/saveButton">
+
+
+        <RadioButton
+            android:id="@+id/radioButton1"
+            style="@style/CustomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/darkgreen"
+            android:text="I have completed the task or I will do the task, check it."
+            android:backgroundTint="@color/darkgreen"/>
+
+
+        <RadioButton
+            android:id="@+id/radioButton2"
+            style="@style/CustomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/darkgreen"
+            android:text="I no longer plan to do the task, delete it."
+            android:backgroundTint="@color/darkgreen"/>
+
+
+        <RadioButton
+            android:id="@+id/radioButton3"
+            style="@style/CustomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/darkgreen"
+            android:text="Remind me again after 2 hours if I am still detected in the location."
+            android:backgroundTint="@color/darkgreen"/>
+
+
+        <RadioButton
+            android:id="@+id/radioButton4"
+            style="@style/CustomButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/darkgreen"
+            android:text="Do not remind me for the meantime."
+            android:backgroundTint="@color/darkgreen"/>
+    </RadioGroup>
+
+
+    <Button
+        android:id="@+id/saveButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Save"
+        android:textColor="@color/white"
+        android:backgroundTint="@color/yellowgreen"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@id/radioGroup" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
+
+
+

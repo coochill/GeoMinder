@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="history_filter_options">
+        <item>All</item>
+        <item>Completed</item>
+        <item>Deleted</item>
+    </string-array>
+    <color name="black">#FF000000</color>
+    <color name="colorOnPrimary">#FFFFFF</color>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryVariant">#3700B3</color>
+    <color name="darkgreen">#023a04</color>
+    <color name="green">#00a651</color>
+    <color name="track_checked">#00FF00</color>
+    <color name="track_unchecked">#CCCCCC</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="yellowgreen">#8dc63f</color>
+    <drawable name="icon_default"/>
+    <item name="bottom_navigation" type="id"/>
+    <item name="categorySpinner" type="id"/>
+    <item name="deleteButton" type="id"/>
+    <item name="editButton" type="id"/>
+    <item name="filter_spinner" type="id"/>
+    <item name="mapContainer" type="id"/>
+    <item name="navigation_dashboard" type="id"/>
+    <item name="navigation_home" type="id"/>
+    <item name="navigation_notifications" type="id"/>
+    <item name="placeAddressText" type="id"/>
+    <item name="radioGroup" type="id"/>
+    <item name="radioGroup2" type="id"/>
+    <item name="radioGroup2Title" type="id"/>
+    <item name="radioOption1" type="id"/>
+    <item name="radioOption2" type="id"/>
+    <item name="radioOption3" type="id"/>
+    <item name="radioOption4" type="id"/>
+    <item name="selectedDateText" type="id"/>
+    <item name="selectedPlaceText" type="id"/>
+    <item name="taskListView" type="id"/>
+    <item name="textInputEditText" type="id"/>
+    <item name="textInputLayout" type="id"/>
+    <string name="about">GeoMinder is your personal assistant for managing tasks that matter most. Whether it’s picking up groceries near the store, attending a meeting on time, or completing errands while on the go, GeoMinder ensures you’re reminded at the perfect moment—right where you need to be.
+With GeoMinder, you’ll never miss a beat.</string>
+    <string name="app_name">GeoMinder</string>
+    <string name="back_arrow"/>
+    <string name="default_web_client_id" translatable="false">71261401194-b6k5m88o0m4k148a2f7dqf4rr6mvg3di.apps.googleusercontent.com</string>
+    <string name="edit">Edit</string>
+    <string name="edit_button"/>
+    <string name="gcm_defaultSenderId" translatable="false">71261401194</string>
+    <string name="google_api_key" translatable="false">AIzaSyDFEPtaM90ZwaKr_uSwKLuhv6bBfilAXBQ</string>
+    <string name="google_app_id" translatable="false">1:71261401194:android:9e1ce45d1bb7d7ba191a13</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFEPtaM90ZwaKr_uSwKLuhv6bBfilAXBQ</string>
+    <string name="google_maps_key">AIzaSyDofiHdH-X11xLyvKNSNiuOk9XswpDx1DU</string>
+    <string name="google_storage_bucket" translatable="false">geominder-9b75d.firebasestorage.app</string>
+    <string name="project_id" translatable="false">geominder-9b75d</string>
+    <string name="save_button"/>
+    <string name="title_history">History</string>
+    <string name="title_home">Home</string>
+    <string name="title_input">Add</string>
+    <string name="title_user">User Profile</string>
+    <style name="Base.Theme.GeoMinder" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:textColor">@color/black</item>
+        <item name="android:buttonTint">@color/black</item>
+
+
+
+
+    </style>
+    <style name="BottomNavigationStyle" parent="Widget.Design.BottomNavigationView">
+        <item name="itemIconTint">@color/darkgreen</item>
+        <item name="itemTextColor">@color/white</item>
+    </style>
+    <style name="CustomButton" parent="Theme.AppCompat.NoActionBar">
+        
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryVariant">@color/colorPrimaryVariant</item>
+        <item name="colorOnPrimary">@color/colorOnPrimary</item>
+    </style>
+    <style name="CustomButtonStyle">
+        <item name="android:textColor">#066e0a</item> 
+    </style>
+    <style name="CustomDatePickerDialog" parent="Theme.AppCompat.Light.Dialog">
+        
+        <item name="android:background">@color/white</item> 
+
+
+
+
+
+
+
+
+        
+        <item name="android:textColor">#000000</item> 
+
+
+
+
+        
+        <item name="android:textColorPrimary">#000000</item> 
+        <item name="android:textColorSecondary">#808080</item> 
+
+
+
+
+        
+        <item name="android:buttonBarButtonStyle">@style/CustomButtonStyle</item>
+    </style>
+    <style name="Theme.GeoMinder" parent="Base.Theme.GeoMinder"/>
+</resources>
