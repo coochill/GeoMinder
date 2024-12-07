@@ -40,7 +40,7 @@ GeoMinder: Location-based Task Reminder</h1>
 	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/login.jpg" alt="Image 2" width="200"> 
  	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/signup.jpg" alt="Image 2" width="200"> 
   	<h3>Profile</h3>
-	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Profle.jpg" alt="Image 2" width="200"> 
+	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Profile.jpg" alt="Image 2" width="200"> 
  	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Inputted taskdetails.jpg" alt="Image 2" width="200"> 
 	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Delete Task.jpg" alt="Image 2" width="200">     
   	<h3>History</h3>
