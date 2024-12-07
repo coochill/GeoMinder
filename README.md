@@ -20,7 +20,7 @@ GeoMinder: Location-based Task Reminder</h1>
 <ul>
   <li> <b>🖥️ IDE</b>: Android Studio</li>
   <li> <b>🛠 Plugins</b>: Google Services and Android Application</li>
-  <li> <b>📦 Libraries</b>: Firebase, Google Places API, AndroidSVG, and OkHttp</li>
+  <li> <b>📦 Libraries</b>: Firebase, Google Places API, AndroidSVG, GeoFencing and OkHttp</li>
 </ul>
 
 ## Features 
