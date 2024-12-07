@@ -177,7 +177,6 @@
 
 ## Future Improvements
 
-- **Recurring Tasks 🔄**: Allow users to set tasks that repeat daily, weekly, or monthly.  
 - **AI-based Suggestions 🤖**: Use AI to recommend task locations based on user habits and history.  
 - **Voice Integration 🎤**: Add voice commands to create and manage tasks easily.  
 - **Cross-Platform Support 🌐**: Expand the app to iOS and web platforms for a wider audience.  
