@@ -27,12 +27,12 @@ GeoMinder: Location-based Task Reminder</h1>
 
 <body>
     <div class="row">
-        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/e1d.png" alt="Image 2" width="500">
-        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/e2d.png" alt="Image 3" width="500">
+        <img src="" alt="Image 2" width="500">
+        <img src="" alt="Image 3" width="500">
     </div>
 	    <div class="row">
-	<img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/Fire.png" alt="Image 1" width="400">
-        <img src="https://raw.githubusercontent.com/coochill/DeTechs/main/picsreadme/weather.png" alt="Image 4" width="500">
+	<img src="" width="400">
+        <img src="" width="500">
     </div>
 </body>
 
