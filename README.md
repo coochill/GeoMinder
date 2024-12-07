@@ -24,52 +24,59 @@ GeoMinder: Location-based Task Reminder</h1>
 </ul>
 
 ## Features
-<div style="display: flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-    <div>
-        <h3 align="center">Landing Page</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing1.jpg" alt="Landing1" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing2.jpg" alt="Landing2" width="200">
-    </div>
-    <div>
-        <h3 align="center">About Page</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/About.jpg" alt="About1" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/About2.jpg" alt="About2" width="200">
-    </div>
-    <div>
-        <h3 align="center">Reminder Dialog</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" alt="Reminder" width="200">
-    </div>
-    <div>
-        <h3 align="center">Login and Sign Up</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/login.jpg" alt="Login" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/signup.jpg" alt="SignUp" width="200">
-    </div>
-    <div>
-        <h3 align="center">Notifications and Location Permission</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Locationpermission.jpg" alt="Permission1" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Location%20Permission.jpg" alt="Permission2" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Permission.jpg" alt="Permission3" width="200">
-    </div>
-    <div>
-        <h3 align="center">Profile</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Profile.jpg" alt="Profile" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Inputted%20taskdetails.jpg" alt="Task Details" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Delete%20Task.jpg" alt="Delete Task" width="200">
-    </div>
-    <div>
-        <h3 align="center">History</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/History.jpg" alt="History1" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/History%20Deleted.jpg" alt="History Deleted" width="200">
-    </div>
-    <div>
-        <h3 align="center">Input Task</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Input%20Page.jpg" alt="Input Page" width="200">
-    </div>
-    <div>
-        <h3 align="center">On-Click Notif (Decision Page)</h3>
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Notif.jpg" alt="Notification" width="200">
-        <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Decision.jpg" alt="Decision" width="200">
-    </div>
+
+### Landing Page
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing1.jpg" alt="Landing1" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing2.jpg" alt="Landing2" width="200">
+</div>
+
+### About Page
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/About.jpg" alt="About1" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/About2.jpg" alt="About2" width="200">
+</div>
+
+### Reminder Dialog
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" alt="Reminder" width="200">
+</div>
+
+### Login and Sign Up
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/login.jpg" alt="Login" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/signup.jpg" alt="SignUp" width="200">
+</div>
+
+### Notifications and Location Permission
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Locationpermission.jpg" alt="Permission1" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Location%20Permission.jpg" alt="Permission2" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Permission.jpg" alt="Permission3" width="200">
+</div>
+
+### Profile
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Profile.jpg" alt="Profile" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Inputted%20taskdetails.jpg" alt="TaskDetails" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Delete%20Task.jpg" alt="DeleteTask" width="200">
+</div>
+
+### History
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/History.jpg" alt="History1" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/History%20Deleted.jpg" alt="History2" width="200">
+</div>
+
+### Input Task
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Input%20Page.jpg" alt="InputPage" width="200">
+</div>
+
+### On-Click Notification (Decision Page)
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Notif.jpg" alt="Notification" width="200">
+    <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Decision.jpg" alt="DecisionPage" width="200">
 </div>
 
 ## Mobile Computing Applications
