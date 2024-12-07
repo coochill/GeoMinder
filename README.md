@@ -50,10 +50,14 @@ GeoMinder: Location-based Task Reminder</h1>
 </table>
 
 ### Reminder Dialog
-<p align="center">
-  <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" width="200">
-</p>
-<p align="center">Reminder Dialog</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Reminder Dialog</td>
+  </tr>
+</table>
 
 ### Login and Sign Up
 <table>
@@ -108,10 +112,14 @@ GeoMinder: Location-based Task Reminder</h1>
 </table>
 
 ### Input Task
-<p align="center">
-  <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Input%20Page.jpg" width="200">
-</p>
-<p align="center">Input Task</p>
+<table align="center">
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Input%20Page.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Input Task</td>
+  </tr>
+</table>
 
 ### On-Click Notification (Decision Page)
 <table>
