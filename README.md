@@ -46,7 +46,7 @@ GeoMinder: Location-based Task Reminder</h1>
   </tr>
   <tr>
     <td align="center">Brief details of GeoMinder</td>
-    <td align="center">Few Instructions and button to Sign Up</td>
+    <td align="center">Instructions| button to Sign Up</td>
     <td align="center">Reminder Dialog</td>
       
   </tr>
