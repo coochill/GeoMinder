@@ -2,11 +2,11 @@
     <img src="https://github.com/coochill/GeoMinder/blob/main/assets/500x500.png" width="300">
 </p>
 
-<h1 align="center"> GeoMinder: Location-based Task Reminder</h1>
-<h3 align="center"> CS312 - Mobile Computing</h3>
-<h5 align="center"> Final Project - Batangas State University - Alangilan, 3rd Year, 1st Semester 2024 </h5>
+<h1 align="center"> 🌍 GeoMinder: Location-based Task Reminder</h1>
+<h3 align="center"> 💻 CS312 - Mobile Computing</h3>
+<h5 align="center"> 📅 Final Project - Batangas State University - Alangilan, 3rd Year, 1st Semester 2024 </h5>
 
-<h5 align="center"> Members </h5>
+<h5 align="center"> 👩‍💻 Members </h5>
 <p align="center">De Leon, Christine Joyce C.</p>
 <p align="center">Domingo, Joy Susette V.</p>
 <p align="center">Sebastian, Phoemela Kyle M.</p>
@@ -31,8 +31,8 @@
 ---
 
 ## About
-<p><strong>Your Tasks, Right Place at the Right Time</strong></p>
-<p>A location-based task reminder app that helps you stay productive by sending reminders based on your location! Whether it's a grocery list at the store or a meeting reminder at the office, GeoMinder ensures you never miss a task.</p>
+<p><strong>Your Tasks, Right Place at the Right Time 📍</strong></p>
+<p>A location-based task reminder app that helps you stay productive by sending reminders based on your location! Whether it's a grocery list at the store or a meeting reminder at the office, GeoMinder ensures you never miss a task. 🗓️📲</p>
 
 ---
 
@@ -45,8 +45,8 @@
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing2.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Tagline and Features to Explore</td>
-    <td align="center">Button to About page</td>
+    <td align="center">Tagline and Features to Explore ✨</td>
+    <td align="center">Button to About page 🔘</td>
   </tr>
 </table>
 
@@ -58,9 +58,9 @@
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Brief details of GeoMinder</td>
-    <td align="center">Instructions & button to Sign Up</td>
-    <td align="center">Reminder Dialog</td>
+    <td align="center">Brief details of GeoMinder 📝</td>
+    <td align="center">Instructions & button to Sign Up 📝</td>
+    <td align="center">Reminder Dialog ⏰</td>
   </tr>
 </table>
 
@@ -71,8 +71,8 @@
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/signup.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Login</td>
-    <td align="center">Sign Up</td>
+    <td align="center">Login 🔑</td>
+    <td align="center">Sign Up ✍️</td>
   </tr>
 </table>
 
@@ -84,9 +84,9 @@
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Permission.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Location Permission pop-up</td>
-    <td align="center">Location Permission Settings</td>
-    <td align="center">Allowing Notification and Location</td>
+    <td align="center">Location Permission pop-up 🗺️</td>
+    <td align="center">Location Permission Settings ⚙️</td>
+    <td align="center">Allowing Notification and Location ✅</td>
   </tr>
 </table>
 
@@ -98,9 +98,9 @@
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Delete%20Task.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Profile Page</td>
-    <td align="center">Inputted Task Details</td>
-    <td align="center">Delete Task</td>
+    <td align="center">Profile Page 👤</td>
+    <td align="center">Inputted Task Details 📝</td>
+    <td align="center">Delete Task 🗑️</td>
   </tr>
 </table>
 
@@ -111,8 +111,8 @@
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/History%20Deleted.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Completed</td>
-    <td align="center">Deleted</td>
+    <td align="center">Completed ✅</td>
+    <td align="center">Deleted ❌</td>
   </tr>
 </table>
 
@@ -124,9 +124,9 @@
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Decision.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Input task Page</td>  
-    <td align="center">Notification</td>
-    <td align="center">Decision Page</td>
+    <td align="center">Input task Page 📝</td>  
+    <td align="center">Notification 🔔</td>
+    <td align="center">Decision Page 💡</td>
   </tr>
 </table>
 
@@ -134,10 +134,10 @@
 
 ## Mobile Computing Applications
 <ul>
-  <li><strong>Task Management</strong>: GeoMinder allows users to manage their tasks based on location triggers.</li>
-  <li><strong>Location-Based Reminders</strong>: Sends reminders when the user enters or leaves a specific location.</li>
-  <li><strong>Google Maps Integration</strong>: Provides real-time mapping and location services for seamless navigation and task monitoring.</li>
-  <li><strong>Firebase Notifications</strong>: Ensures reliable push notifications for task reminders and updates.</li>
+  <li><strong>Task Management 📋</strong>: GeoMinder allows users to manage their tasks based on location triggers.</li>
+  <li><strong>Location-Based Reminders 📍</strong>: Sends reminders when the user enters or leaves a specific location.</li>
+  <li><strong>Google Maps Integration 🗺️</strong>: Provides real-time mapping and location services for seamless navigation and task monitoring.</li>
+  <li><strong>Firebase Notifications 🔔</strong>: Ensures reliable push notifications for task reminders and updates.</li>
 </ul>
 
 ---
@@ -161,27 +161,27 @@
 
 ## Use Cases
 
-- **Shopping List Reminders**  
+- **Shopping List Reminders 🛒**  
   Set reminders for your grocery list that only notify you when you arrive at the supermarket.  
 
-- **Office Task Alerts**  
+- **Office Task Alerts 💼**  
   Never forget an important work task by scheduling reminders for when you reach the office.  
 
-- **Errands and Chores**  
+- **Errands and Chores 🧹**  
   Automatically get reminded to pick up your laundry or drop off a package when near the respective locations.  
 
-- **Travel Preparations**  
+- **Travel Preparations ✈️**  
   Plan your travel checklist and get notified as you approach specific locations, like the airport or hotel.  
 
 ---
 
 ## Future Improvements
 
-- **Recurring Tasks**: Allow users to set tasks that repeat daily, weekly, or monthly.  
-- **AI-based Suggestions**: Use AI to recommend task locations based on user habits and history.  
-- **Voice Integration**: Add voice commands to create and manage tasks easily.  
-- **Cross-Platform Support**: Expand the app to iOS and web platforms for a wider audience.  
-- **Collaboration Features**: Enable sharing and assigning tasks to friends or colleagues.  
-- **Dark Mode Support**: Enhance accessibility and user experience with a dark mode option.  
+- **Recurring Tasks 🔄**: Allow users to set tasks that repeat daily, weekly, or monthly.  
+- **AI-based Suggestions 🤖**: Use AI to recommend task locations based on user habits and history.  
+- **Voice Integration 🎤**: Add voice commands to create and manage tasks easily.  
+- **Cross-Platform Support 🌐**: Expand the app to iOS and web platforms for a wider audience.  
+- **Collaboration Features 👥**: Enable sharing and assigning tasks to friends or colleagues.  
+- **Dark Mode Support 🌙**: Enhance accessibility and user experience with a dark mode option.  
 
 ---
