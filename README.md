@@ -105,16 +105,6 @@ GeoMinder: Location-based Task Reminder</h1>
   </tr>
 </table>
 
-### Input Task
-<table align="center">
-  <tr>
-    
-  </tr>
-  <tr>
-    <td align="center">Input Task</td>
-  </tr>
-</table>
-
 ### Input task And On-Click Notification (Decision Page)
 <table>
   <tr>
