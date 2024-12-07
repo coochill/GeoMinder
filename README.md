@@ -26,49 +26,104 @@ GeoMinder: Location-based Task Reminder</h1>
 ## Features
 
 ### Landing Page
-| ![Landing 1](https://github.com/coochill/GeoMinder/blob/main/assets/Landing1.jpg) | ![Landing 2](https://github.com/coochill/GeoMinder/blob/main/assets/Landing2.jpg) |
-|:---------------------------------------------:|:---------------------------------------------:|
-| Landing Page 1                                | Landing Page 2                                |
+<table>
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing1.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing2.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Landing Page 1</td>
+    <td align="center">Landing Page 2</td>
+  </tr>
+</table>
 
 ### About Page
-| ![About 1](https://github.com/coochill/GeoMinder/blob/main/assets/About.jpg) | ![About 2](https://github.com/coochill/GeoMinder/blob/main/assets/About2.jpg) |
-|:--------------------------------------------:|:--------------------------------------------:|
-| About Page 1                                 | About Page 2                                 |
+<table>
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/About.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/About2.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">About Page 1</td>
+    <td align="center">About Page 2</td>
+  </tr>
+</table>
 
 ### Reminder Dialog
-| ![Reminder](https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg) |
-|:--------------------------------------------:|
-| Reminder Dialog                              |
+<p align="center">
+  <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" width="200">
+</p>
+<p align="center">Reminder Dialog</p>
 
 ### Login and Sign Up
-| ![Login](https://github.com/coochill/GeoMinder/blob/main/assets/login.jpg) | ![SignUp](https://github.com/coochill/GeoMinder/blob/main/assets/signup.jpg) |
-|:---------------------------------------------:|:---------------------------------------------:|
-| Login                                         | Sign Up                                       |
+<table>
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/login.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/signup.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Login</td>
+    <td align="center">Sign Up</td>
+  </tr>
+</table>
 
 ### Notifications and Location Permission
-| ![Permission 1](https://github.com/coochill/GeoMinder/blob/main/assets/Locationpermission.jpg) | ![Permission 2](https://github.com/coochill/GeoMinder/blob/main/assets/Location%20Permission.jpg) | ![Permission 3](https://github.com/coochill/GeoMinder/blob/main/assets/Permission.jpg) |
-|:---------------------------------------------:|:---------------------------------------------:|:---------------------------------------------:|
-| Location Permission 1                         | Location Permission 2                         | Location Permission 3                         |
+<table>
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Locationpermission.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Location%20Permission.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Permission.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Location Permission 1</td>
+    <td align="center">Location Permission 2</td>
+    <td align="center">Location Permission 3</td>
+  </tr>
+</table>
 
 ### Profile
-| ![Profile](https://github.com/coochill/GeoMinder/blob/main/assets/Profile.jpg) | ![Task Details](https://github.com/coochill/GeoMinder/blob/main/assets/Inputted%20taskdetails.jpg) | ![Delete Task](https://github.com/coochill/GeoMinder/blob/main/assets/Delete%20Task.jpg) |
-|:--------------------------------------------:|:-----------------------------------------------:|:-----------------------------------------------:|
-| Profile Page                                 | Inputted Task Details                          | Delete Task                                     |
+<table>
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Profile.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Inputted%20taskdetails.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Delete%20Task.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Profile Page</td>
+    <td align="center">Inputted Task Details</td>
+    <td align="center">Delete Task</td>
+  </tr>
+</table>
 
 ### History
-| ![History](https://github.com/coochill/GeoMinder/blob/main/assets/History.jpg) | ![History Deleted](https://github.com/coochill/GeoMinder/blob/main/assets/History%20Deleted.jpg) |
-|:--------------------------------------------:|:--------------------------------------------:|
-| History                                      | History Deleted                              |
+<table>
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/History.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/History%20Deleted.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">History</td>
+    <td align="center">History Deleted</td>
+  </tr>
+</table>
 
 ### Input Task
-| ![Input Task](https://github.com/coochill/GeoMinder/blob/main/assets/Input%20Page.jpg) |
-|:--------------------------------------------:|
-| Input Task                                   |
+<p align="center">
+  <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Input%20Page.jpg" width="200">
+</p>
+<p align="center">Input Task</p>
 
 ### On-Click Notification (Decision Page)
-| ![Notification](https://github.com/coochill/GeoMinder/blob/main/assets/Notif.jpg) | ![Decision Page](https://github.com/coochill/GeoMinder/blob/main/assets/Decision.jpg) |
-|:--------------------------------------------:|:--------------------------------------------:|
-| Notification                                 | Decision Page                                |
+<table>
+  <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Notif.jpg" width="200"></td>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Decision.jpg" width="200"></td>
+  </tr>
+  <tr>
+    <td align="center">Notification</td>
+    <td align="center">Decision Page</td>
+  </tr>
+</table>
 
 ## Mobile Computing Applications
 <ul>
