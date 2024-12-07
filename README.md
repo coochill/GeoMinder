@@ -32,8 +32,8 @@ GeoMinder: Location-based Task Reminder</h1>
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing2.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Landing Page 1</td>
-    <td align="center">Landing Page 2</td>
+    <td align="center">Tagline and Features to Explore</td>
+    <td align="center">Button to About page</td>
   </tr>
 </table>
 
@@ -42,22 +42,16 @@ GeoMinder: Location-based Task Reminder</h1>
   <tr>
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/About.jpg" width="200"></td>
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/About2.jpg" width="200"></td>
-  </tr>
-  <tr>
-    <td align="center">About Page 1</td>
-    <td align="center">About Page 2</td>
-  </tr>
-</table>
-
-### Reminder Dialog
-<table align="center">
-  <tr>
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Reminder.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Reminder Dialog</td>
+    <td align="center">Brief details of GeoMinder</td>
+    <td align="center">Few Instructions and button to Sign Up</td>
+    <td align="center">Reminder Dialog [info image button clicked ]</td>
+      
   </tr>
 </table>
+
 
 ### Login and Sign Up
 <table>
@@ -79,9 +73,9 @@ GeoMinder: Location-based Task Reminder</h1>
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Permission.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">Location Permission 1</td>
-    <td align="center">Location Permission 2</td>
-    <td align="center">Location Permission 3</td>
+    <td align="center">Location Permission pop-up</td>
+    <td align="center">Location Permission Settings</td>
+    <td align="center">Allowing Notification and Location</td>
   </tr>
 </table>
 
@@ -106,28 +100,30 @@ GeoMinder: Location-based Task Reminder</h1>
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/History%20Deleted.jpg" width="200"></td>
   </tr>
   <tr>
-    <td align="center">History</td>
-    <td align="center">History Deleted</td>
+    <td align="center">Completed</td>
+    <td align="center">Deleted</td>
   </tr>
 </table>
 
 ### Input Task
 <table align="center">
   <tr>
-    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Input%20Page.jpg" width="200"></td>
+    
   </tr>
   <tr>
     <td align="center">Input Task</td>
   </tr>
 </table>
 
-### On-Click Notification (Decision Page)
+### Input task And On-Click Notification (Decision Page)
 <table>
   <tr>
+    <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Input%20Page.jpg" width="200"></td>  
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Notif.jpg" width="200"></td>
     <td><img src="https://github.com/coochill/GeoMinder/blob/main/assets/Decision.jpg" width="200"></td>
   </tr>
   <tr>
+    <td align="center">Input task Page</td>  
     <td align="center">Notification</td>
     <td align="center">Decision Page</td>
   </tr>
