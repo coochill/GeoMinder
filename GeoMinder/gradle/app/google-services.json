@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "71261401194",
+    "project_id": "geominder-9b75d",
+    "storage_bucket": "geominder-9b75d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:71261401194:android:9e1ce45d1bb7d7ba191a13",
+        "android_client_info": {
+          "package_name": "com.example.geominder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "71261401194-gd12ihsdhob86oo1lna8nn03mcavmld9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.geominder",
+            "certificate_hash": "c6d1fe9ad38a55d5ad652095de19379b416e0890"
+          }
+        },
+        {
+          "client_id": "71261401194-b6k5m88o0m4k148a2f7dqf4rr6mvg3di.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFEPtaM90ZwaKr_uSwKLuhv6bBfilAXBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "71261401194-b6k5m88o0m4k148a2f7dqf4rr6mvg3di.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
