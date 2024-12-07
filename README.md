@@ -13,6 +13,7 @@ GeoMinder: Location-based Task Reminder</h1>
 <p align="center">Sebastian, Phoemela Kyle M.</p>
 
  ## About
+ <p><strong>Your Tasks, Right Place at the Right Time</strong></p>
  <p> A location-based task reminder app that helps you stay productive by sending reminders based on your location! Whether it's a grocery list at the store or a meeting reminder at the office, GeoMinder ensures you never miss a task. </p>
 
 
