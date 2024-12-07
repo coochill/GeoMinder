@@ -36,10 +36,6 @@ GeoMinder: Location-based Task Reminder</h1>
 	<img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing1.jpg" alt="Image 2" width="200">
         <img src="https://github.com/coochill/GeoMinder/blob/main/assets/Landing2.jpg" alt="Image 3" width="200"> 
     </div>
-	    <div class="row">
-	<img src="" width="400">
-        <img src="" width="500">
-    </div>
 </body>
 
 ## Mobile Computing Applications
