@@ -42,16 +42,8 @@
 With GeoMinder, you’ll never miss a beat.</string>
     <string name="app_name">GeoMinder</string>
     <string name="back_arrow"/>
-    <string name="default_web_client_id" translatable="false">71261401194-b6k5m88o0m4k148a2f7dqf4rr6mvg3di.apps.googleusercontent.com</string>
     <string name="edit">Edit</string>
     <string name="edit_button"/>
-    <string name="gcm_defaultSenderId" translatable="false">71261401194</string>
-    <string name="google_api_key" translatable="false">AIzaSyDFEPtaM90ZwaKr_uSwKLuhv6bBfilAXBQ</string>
-    <string name="google_app_id" translatable="false">1:71261401194:android:9e1ce45d1bb7d7ba191a13</string>
-    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyDFEPtaM90ZwaKr_uSwKLuhv6bBfilAXBQ</string>
-    <string name="google_maps_key">AIzaSyDofiHdH-X11xLyvKNSNiuOk9XswpDx1DU</string>
-    <string name="google_storage_bucket" translatable="false">geominder-9b75d.firebasestorage.app</string>
-    <string name="project_id" translatable="false">geominder-9b75d</string>
     <string name="save_button"/>
     <string name="title_history">History</string>
     <string name="title_home">Home</string>
