@@ -4,7 +4,7 @@ plugins {
 
 
 }
-
+//comment
 
 android {
     namespace = "com.example.geominder"
